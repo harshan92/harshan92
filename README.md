@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Virtual Systems Solutions(Pvt) Ltd.
 - 🌱 I’m currently learning Flutter, Laravel, Django and etc.
+- ⚡ I have more than 2year experience in IT industry as a Softwarw enginner.
+- 🤔 I like to greatest Software Engineer in the world.
 <!--
 **harshan92/harshan92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
