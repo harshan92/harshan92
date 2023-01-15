@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Virtual Systems Solutions(Pvt) Ltd.
+- 🌱 I’m currently learning Flutter, Laravel, Django and etc.
 <!--
 **harshan92/harshan92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
