@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter, Laravel, Django and etc.
 - ⚡ I have more than 2year experience in IT industry as a Software enginner.
 - 🤔 I like to be a greatest and successful Software Engineer in the world.
-- 😄 I want to make happy my customers and users by doing or making software products.
+- 😄 “Be an innovator, not an imitator.“
 <!--
 **harshan92/harshan92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
