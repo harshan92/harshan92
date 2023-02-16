@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Virtual Systems Solutions(Pvt) Ltd.
+- 🔭 I worked with Virtual Systems Solutions(Pvt) Ltd, Sidadiya and Panoramic Tours.
 - 🌱 I’m currently learning Flutter, Laravel, Django and etc.
 - ⚡ I have more than 2year experience in IT industry as a Software enginner.
 - 🤔 I like to be a greatest and successful Software Engineer in the world.
